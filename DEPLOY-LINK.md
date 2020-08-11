@@ -1,1 +1,1 @@
-https://tinder-clone-ac968.web.app/chat
+https://tinder-clone-ac968.web.app/
